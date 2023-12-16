@@ -25,7 +25,6 @@ link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.c
 
 # LiaScript
 
-
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
@@ -34,7 +33,6 @@ link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.c
 > If you need help, feel free to ask us any questions in the chat:
 >
 > [![Gitter](https://badges.gitter.im/LiaScript/community.svg)](https://gitter.im/LiaScript/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 
                             --{{0}}--
 With LiaScript, we tried to implement an extended
